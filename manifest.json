@@ -1,0 +1,14 @@
+{
+  "app": {
+    "version": "1.0.0",
+    "url": null
+  },
+  "dongle": {
+    "version": "1.0.0",
+    "url": null
+  },
+  "controller": {
+    "version": "1.0.0",
+    "url": null
+  }
+}
